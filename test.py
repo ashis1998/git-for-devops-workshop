@@ -1,3 +1,5 @@
-print ("MyPyhton")
-Today is the day that i wiil finish Git,github and git lab.
-I want to practice git featch and some other commands.
+# Get the user's name
+name = input("What is your name? ")
+
+# Print out a greeting
+print("Hello, " + name + "!")
